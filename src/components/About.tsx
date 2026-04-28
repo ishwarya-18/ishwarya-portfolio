@@ -4,7 +4,7 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 const journey = [
   { icon: School, title: "Girls' Higher Secondary School", subtitle: "HSC - 90.44% | Chemistry Topper", period: "2021 - 2023" },
-  { icon: GraduationCap, title: "Bannari Amman Institute of Technology", subtitle: "B.Tech AI & Data Science | CGPA: 8.68", period: "2023 - 2027" },
+  { icon: GraduationCap, title: "Bannari Amman Institute of Technology", subtitle: "B.Tech AI & Data Science | CGPA: 8.73", period: "2023 - 2027" },
   { icon: Building2, title: "CodSoft - Web Development Intern", subtitle: "HTML, CSS, JavaScript Projects", period: "Oct - Nov 2024" },
   { icon: Briefcase, title: "Cognifyz - Full Stack Intern", subtitle: "React.js, Node.js Development", period: "Feb - Mar 2025" },
 ];
